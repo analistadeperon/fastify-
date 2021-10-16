@@ -1,0 +1,21 @@
+{
+  "name": "fastify_sample",
+  "version": "1.0.0",
+  "description": "Working on Fastify framework in Node JS",
+  "main": "App.js",
+  "scripts": {
+    "start": "node app.js",
+     "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "fastify",
+    "fastify-js",
+     "fastifyjs"
+  ],
+  "author": " ",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.19.2",
+    "nodemon": "^2.0.12"
+  }
+}
