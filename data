@@ -1,0 +1,23 @@
+var dataItems = [
+    {
+        "id":"1",
+        "name":"Aladim"
+    },
+    {
+        "id":"2",
+        "name":"Dom"
+    },
+    {
+        "id":"3",
+        "name":"Curry"
+    },
+    {
+        "id":"4",
+        "name":"Racha"
+    },
+    {
+        "id":"5",
+        "name":"Danney"
+    }
+]
+module.exports = dataItems;
